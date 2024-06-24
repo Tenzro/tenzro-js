@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# MacOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Build output
+dist/
+build/
+
+# IntelliJ IDEA
+.idea/
+
+# JetBrains Rider
+.idea/
+
+# WebStorm
+.idea/
+
+# Temporary folders
+tmp/
+temp/
+
+# Project-specific
+out/
+coverage/
+.cache/
+*.pid
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+# Optional eslint cache
+.eslintcache
+# Optional REPL history
+.node_repl_history
+# Optional PM2 PID file
+pids/
+# SASS Cache
+.sass-cache/
+# Bower dependency directory
+bower_components/
+
+# Coverage directory used by tools like istanbul
+coverage/
