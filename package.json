@@ -6,6 +6,9 @@
     "build": "tsc",
     "test-sdk": "tsc && node dist/test/test-sdk.js"
   },
+  "keywords": ["tenzro", "sdk", "nodejs"],
+  "author": "Hilal Agil",
+  "license": "Apache-2.0",
   "dependencies": {
     "axios": "^0.24.0",
     "dotenv": "^10.0.0"
