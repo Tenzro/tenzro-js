@@ -25,8 +25,8 @@ TENZRO_API_KEY=your-api-key
 Here's a basic example of how to use the Tenzro Node.js SDK:
 
 ```bash
-import { createNFT, generateContext, getAllNFTs, getNFTByVid } from 'tenzro-sdk-nodejs';
-import { NFTMetadata } from 'tenzro-sdk-nodejs/dist/interfaces/nft';
+import { createNFT, generateContext, getAllNFTs, getNFTByVid } from 'tenzro';
+import { NFTMetadata } from 'tenzro';
 
 async function testSDK() {
   try {
