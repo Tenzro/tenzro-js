@@ -9,7 +9,7 @@ Installation
 To install the Tenzro Node.js SDK, use npm:
 
 ```bash
-npm install @tenzro/tenzro-sdk
+npm install tenzro
 ```
 
 ## Configuration
